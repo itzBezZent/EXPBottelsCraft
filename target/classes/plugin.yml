@@ -1,0 +1,7 @@
+name: EXPBottelsCraft
+version: '1.0'
+main: org.example.expbottlescraft.Main
+api-version: 1.16
+load: STARTUP
+authors: [itzBezZent]
+description: Plugin for craft exp bottles
